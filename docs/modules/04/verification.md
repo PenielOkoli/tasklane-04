@@ -13,7 +13,8 @@ Live Vercel URL: https://tasklane-structured.vercel.app
 
 ## Deployment evidence
 
-- GitHub repository and Vercel Git integration: pending publication.
+- GitHub repository: published at `https://github.com/PenielOkoli/tasklane-04`; source commit `7aa8ab5a0b4a3bbd7aa8e7cdfa7f5d4fa8063a2d`.
+- GitHub-connected Vercel project: creation paused at Vercel's interactive identity verification step. Complete verification in the open browser tab, then confirm the imported repository is connected.
 - Live page and safe no-key fallback: pending deployment verification.
 - Live structured response from Groq: pending this Vercel project's own Production key and deployment.
 
